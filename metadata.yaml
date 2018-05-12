@@ -1,0 +1,35 @@
+_repo: Chronicles-of-England-Scotland-and-Ireland--2-of-6---England--5-of-12-Henrie-the-Second_16761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holinshead, Raphael
+    - Holinshed, Raphaell
+    - Holynshed, Raphael
+    - Holinshed, Ralph
+    - Holingshed, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- To 1485'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Henry II, 1154-1189'
+title: "Chronicles of England, Scotland and Ireland (2 of 6): England (05 of 12)\r\
+  \nHenrie the Second"
+url: http://www.gutenberg.org/ebooks/16761
